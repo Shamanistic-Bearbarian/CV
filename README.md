@@ -39,7 +39,7 @@ Outside of work I am a sports enthusiast, animal rights activist and self-procla
 ### Accenture                                                                                                       	 London, United Kingdom
 ### Strategy & Technology Consultant 
 
-•	Designed and implemented a Hub & Spoke Data Mesh based Operating model and Data Architecture for a $90 Billion Beverage company focused on enabling the ability to leverage global data to identify opportunities and improve time to market.
+*	Designed and implemented a Hub & Spoke Data Mesh based Operating model and Data Architecture for a $90 Billion Beverage company focused on enabling the ability to leverage global data to identify opportunities and improve time to market.
 
 ### (2019 – 2021) 	
 ### Bloomberg LP                                                                                                      	London, United Kingdom
