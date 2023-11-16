@@ -18,17 +18,21 @@ Outside of work I am a sports enthusiast, animal rights activist and self-procla
 #### 	Investment Banking Project – Deployment Lead
 
 •	Implemented ML powered tools that utilised a combination of Random Forests and gradient boosting to improve the identification of fraudulent transactions by analysing user activity for suspicious behaviour – leading to a 60% reduction in fraudulent transaction.
+
 •	Centralised previously siloed data from multiple departments in a single clean layer to enable advanced analytics and the deployment of AI solutions as well as enforce data policy compliance across different jurisdictions.
 
 #### 	Supply Chain Projects – Individual Contributor
 
-•	Implemented a suite of ML applications, analytical dashboards & ETL pipelines for a $120 Billion US retailer, identifying the weak links of their supply-chain through analytics and time-series forecasting using LSTM models to improve leadtime by 70%.
+•	Deployed a suite of ML applications, analytical dashboards & ETL pipelines for a $120 Billion US retailer, identifying the weak links of their supply-chain through analytics and time-series forecasting using LSTM models to improve leadtime by 70%.
+
 •	Built a supply chain ecosystem platform for a major US healthcare distributor fully integrating both supplier and client data & ERP systems; enhancing end-to-end visibility whilst providing supply chain signals within an actionable interface by using statistical & ML methods to identify pain points and forecast scenarios across the supply-chain.
-•	Deployed and analysed A/B tests to advise on the rollout of new features to the ecosystem developed for a major US healthcare distributor for both supplier and client-facing ones. 
+
+•	Designed and analysed A/B tests to advise on the rollout of new features to the ecosystem developed for a major US healthcare distributor for both supplier and client-facing ones. 
 
 #### 	Aerospace Projects (In partnership with Airbus) – Project Manager
 
 •	Led teams of analysts to onboard and train users from major airlines across 3 continents onto a monetised ecosystem for a $100 Billion aerospace corporation, leveraging analytical insights, ML models and building custom applications to address use cases across multiple departments at each airline (e.g. predicting maintenance times and delay propagation using XGBoost models).
+
 •	Delivered data-driven insights internally into the behaviour of application users by leveraging advanced segmentation methods, process mining and applied statistics (K-means clustering, causal inference).
 
 ### (2021 – 2022) 	
@@ -42,7 +46,9 @@ Outside of work I am a sports enthusiast, animal rights activist and self-procla
 ### Lead Data Analyst (Equity)
 
 •	Led project to automate equity workflow accounting for 82% of client inquiries using NLP and Deep learning models (LSTM) – final resulting model produced >99% precision and 98.5% recall in prod.
+
 •	Liaised with global clients on a frequent basis – translating backend processes into layman terms and addressing clients’ needs through tailor-made solutions.
+
 •	Managed team of 4+ analysts covering the UK Equity market including the analysis, maintenance and delivery of new products and services covering Fundamentals, Shares and corporate actions; Simultaneously managed the development, training & succession planning of the team.
 
 ## EDUCATION
